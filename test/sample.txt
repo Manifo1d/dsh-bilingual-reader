@@ -1,0 +1,3 @@
+Hello PDF
+
+This is a test document for the bilingual reader.

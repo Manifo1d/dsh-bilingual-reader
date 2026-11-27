@@ -1,0 +1,3 @@
+- insert:
+    - id: bilingual-reader
+      name: '@local/dsh-bilingual-reader'
